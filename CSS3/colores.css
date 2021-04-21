@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to bottom, #498433 0%, #b8e2e7 100%);
+}
+.p-2{
+    font-weight: bold;
+}
+
+p .fs-6{
+    text-anchor: start;
+}
